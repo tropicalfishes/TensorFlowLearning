@@ -1,0 +1,3 @@
+activate tensorflow35
+python parseminist.py
+pause
